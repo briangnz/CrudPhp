@@ -1,6 +1,6 @@
 {
-  "name": "Crudphp.GitHub.io",
-  "tagline": "Php And Mysql Crud",
-  "body": "### Php And Mysql Crud.\r\nHola y Bienvenido\r\nEste es un sitio estatico donde puedes descargar los archivos necesarios para funcionar un crud sencillo en php y mysql usando materializecss como frameworks CSS\r\n\r\n### Que usamos ?\r\nSimple\r\nServidor PHP\r\nDatabase Manager : PhpMyAdmin\r\nFramework CSS: MaterializeCSS\r\n\r\n\r\n### Authors and Contributors\r\n@briangnz\r\n\r\n",
+  "name": "Minimal Crud",
+  "tagline": "Estas buscando un crud hecho en php y mysql ?",
+  "body": "### Welcome\r\n\r\n\r\n### Que usamos ?\r\n* [Atom](https://atom.io/download/windows)\r\n* [Xampp](https://www.apachefriends.org/xampp-files/5.6.24/xampp-win32-5.6.24-1-VC11-installer.exe)\r\n* [MaterializeCSS](http://materializecss.com/bin/materialize-v0.97.7.zip)\r\n\r\n### Authors and Contributors\r\n@briangnz\r\n\r\n***\r\n![](http://www.prototypingwithframer.com/wp-content/uploads/2015/07/atom-logo.jpg)\r\n![](http://materializecss.com/images/favicon/apple-touch-icon-152x152.png)\r\nhttps://4.bp.blogspot.com/-ii2pRkLHP84/V5WAejbaVyI/AAAAAAAABKI/ebDvSpQufN0lAUa-fKfNgdFDis98gfdgACLcB/s1600/image172.png\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
