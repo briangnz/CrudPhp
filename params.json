@@ -1,0 +1,6 @@
+{
+  "name": "Crudphp.GitHub.io",
+  "tagline": "Php And Mysql Crud",
+  "body": "### Php And Mysql Crud.\r\nHola y Bienvenido\r\nEste es un sitio estatico donde puedes descargar los archivos necesarios para funcionar un crud sencillo en php y mysql usando materializecss como frameworks CSS\r\n\r\n### Que usamos ?\r\nSimple\r\nServidor PHP\r\nDatabase Manager : PhpMyAdmin\r\nFramework CSS: MaterializeCSS\r\n\r\n\r\n### Authors and Contributors\r\n@briangnz\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
